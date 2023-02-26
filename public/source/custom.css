@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&family=Mitr:wght@300&display=swap');
+.navbar-brand {
+    font-family: 'Charmonman', cursive;
+}
+* {
+    font-family: 'Mitr', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.brand {
+    font-family: 'Charmonman', cursive;
+}
+.Login {
+    width: 360px;
+}
+.LoginPage {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SignUpPage {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SignUp {
+    width: 360px;
+}
+.Recommand-list {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.col {
+    width: 322px;
+}
